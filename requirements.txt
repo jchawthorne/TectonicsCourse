@@ -2,3 +2,4 @@ matplotlib==3.*
 numpy==1.19.*
 pygmt==0.*
 pyshtools==4.*
+cartopy==0.*
