@@ -1,2 +1,5 @@
-matplotlib==3.3.1
+matplotlib==3.*
+numpy==*
 pygmt==0.3.1
+pyshtools==4.*
+scipy==*
