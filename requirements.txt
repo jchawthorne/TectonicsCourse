@@ -2,5 +2,6 @@ matplotlib==3.4.3
 numpy==1.*
 Cython==0.*
 cartopy==0.*
+geos-config
 pygmt
 pyshtools
