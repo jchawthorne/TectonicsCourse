@@ -2,5 +2,5 @@ matplotlib==3.4.3
 numpy==1.*
 Cython==0.*
 cartopy==0.*
-pygmt==0.3.1
-pyshtools==4.6.*
+pygmt
+pyshtools
