@@ -3,5 +3,4 @@ numpy
 Cython
 cartopy
 pygmt
-gmt
 pyshtools
